@@ -1,11 +1,15 @@
 Auto Rename Tag
-Bse16 Terminal
-Better Comments
 colorize
 CSS Peek
 HTML Preview
-IntelliSense for CSS class names in HTML
-Live Server
+HTML to CSS autocompletion+
+IntelliSense for CSS class names in HTML+
 Prettier
+Live Server
+Better Comments
+
+- ide styling -
+
 Tokyo Night theme
 VSCode Great Icons
+Bse16 Terminal
