@@ -12,4 +12,4 @@ Better Comments
 
 Tokyo Night theme
 VSCode Great Icons
-Bse16 Terminal
+Base16 Terminal
