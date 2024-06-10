@@ -1,0 +1,11 @@
+Auto Rename Tag
+Bse16 Terminal
+Better Comments
+colorize
+CSS Peek
+HTML Preview
+IntelliSense for CSS class names in HTML
+Live Server
+Prettier
+Tokyo Night theme
+VSCode Great Icons
